@@ -1,0 +1,125 @@
+producto,precio_unitario,talla,cantidad,vendedor,total,fecha
+bermuda cargo beige,120000.0,L,3.0,Juan Rios,360000,2026-01-18
+Saco Cuello Tortuga Lana,220000.0,medio,2.0,Juan Rios,440000,2026-01-18
+Jeans Classic Blue Denim,180000.0,medio,3.0,Luis Valencia,540000,2026-02-26
+saco cuello tortuga lana,220000.0,S,1.0,Maria Valencia,220000,2026-02-15
+ Camiseta Basica Cuello V ,85000.0,XXL,1.0,Maria Valencia,85000,2026-02-15
+Jeans Classic Blue Denim,180000.0,S,0.0,Juan Giraldo,360000,2026-02-21
+Saco Cuello Tortuga Lana,220000.0,XXL,2.0,Juan Giraldo,440000,21/02/2026
+jeans classic blue denim,180000.0,XS,3.0,Juan Rios,540000,2026-02-03
+Saco Cuello Tortuga Lana,220000.0,M,2.0,Juan Rios,440000,03/02/2026
+Saco Cuello Tortuga Lana,220000.0,medio,2.0,Maria Zapata,440000,2026-02-20
+Bermuda Cargo Beige,120000.0,S,3.0,Maria Zapata,360000,20/02/2026
+ Chaqueta Bomber Impermeable ,350000.0,S,2.0,Maria Zapata,700000,2026-02-20
+Bermuda Cargo Beige,120000.0,XL,-1.0,Maria Zapata,360000,2026-02-20
+Jeans Classic Blue Denim,180000.0,XL,1.0,Pedro Giraldo,180000,2026-02-06
+Bermuda Cargo Beige,120000.0,L,1.0,ANA VALENCIA,120000,2026-02-08
+ Jeans Classic Blue Denim ,180000.0,XXL,2.0,Ana Valencia,360000,2026-02-08
+ Camisa Polo Slim Fit Algodon ,200000.0,M,2.0,Ana Valencia,400000,2026-02-08
+Camisa Polo Slim Fit Algodon,200000.0,M,,Ana Valencia,600000,2026-02-08
+Camisa Polo Slim Fit Algodon,,XS,1.0,Maria Valencia,200000,2026-01-17
+camiseta basica cuello v,85000.0,XL,2.0,Maria Zapata,170000,2026-01-14
+Camiseta Basica Cuello V,,XXL,2.0,Maria Zapata,170000,2026-01-14
+Saco Cuello Tortuga Lana,220000.0,M,1.0,Maria Zapata,220000,14/01/2026
+Jeans Classic Blue Denim,180000.0,XL,,Maria Zapata,540000,2026-01-14
+Camiseta Basica Cuello V,85000.0,XL,1.0,Pedro Cano,11791,2026-02-25
+Jeans Classic Blue Denim,180000.0,medio,1.0,Pedro Cano,180000,2026-02-25
+ Jeans Classic Blue Denim ,180000.0,S,2.0,Pedro Cano,360000,2026-02-25
+Camisa Polo Slim Fit Algodon,200000.0,L,-1.0,Ana Rios,200000,2026-01-14
+Saco Cuello Tortuga Lana,220000.0,L,3.0,Ana Rios,660000,14/01/2026
+Camisa Polo Slim Fit Algodon,200000.0,XXL,1.0,Ana Rios,200000,14/01/2026
+Chaqueta Bomber Impermeable,350000.0,L,2.0,JUAN GIRALDO,700000,2026-01-22
+jeans classic blue denim,180000.0,XL,3.0,Juan Giraldo,540000,2026-01-22
+Saco Cuello Tortuga Lana,220000.0,XXL,3.0,Juan Giraldo,660000,2026-01-22
+Bermuda Cargo Beige,120000.0,XL,1.0,Maria Gomez,8613,2026-03-03
+Chaqueta Bomber Impermeable,,XXL,3.0,Maria Gomez,1050000,2026-03-03
+Camisa Polo Slim Fit Algodon,200000.0,XXL,1.0,ANA RIOS,200000,2026-02-27
+Saco Cuello Tortuga Lana,,XS,3.0,Ana Rios,660000,2026-02-27
+Jeans Classic Blue Denim,180000.0,S,3.0,Ana Rios,540000,2026-02-27
+ Chaqueta Bomber Impermeable ,350000.0,L,1.0,Maria Zapata,350000,2026-01-07
+Saco Cuello Tortuga Lana,220000.0,L,2.0,MARIA ZAPATA,440000,2026-01-07
+ Camiseta Basica Cuello V ,85000.0,S,1.0,Maria Zapata,85000,2026-01-07
+Jeans Classic Blue Denim,,S,1.0,Juan Rios,180000,2026-01-25
+Saco Cuello Tortuga Lana,220000.0,XL,3.0,Pedro Giraldo,660000,28/01/2026
+ Chaqueta Bomber Impermeable ,350000.0,M,3.0,Juan Giraldo,1050000,2026-01-02
+Chaqueta Bomber Impermeable,,XL,2.0,Juan Giraldo,700000,2026-01-02
+Camisa Polo Slim Fit Algodon,200000.0,XS,1.0,JUAN GIRALDO,200000,2026-01-02
+Camiseta Basica Cuello V,85000.0,medio,2.0,Juan Giraldo,170000,2026-01-02
+Saco Cuello Tortuga Lana,220000.0,medio,2.0,Juan Giraldo,440000,2026-02-07
+Saco Cuello Tortuga Lana,220000.0,S,1.0,Juan Giraldo,220000,2026-02-07
+ Bermuda Cargo Beige ,120000.0,M,3.0,Juan Rios,360000,2026-01-21
+camiseta basica cuello v,85000.0,L,2.0,Maria Valencia,170000,2026-02-05
+Jeans Classic Blue Denim,180000.0,XL,2.0,Maria Valencia,10518,2026-02-05
+Camisa Polo Slim Fit Algodon,200000.0,M,2.0,Maria Valencia,400000,05/02/2026
+Saco Cuello Tortuga Lana,220000.0,L,-1.0,Maria Valencia,220000,2026-02-05
+Saco Cuello Tortuga Lana,220000.0,XXL,2.0,Luis Valencia,7042,2026-01-10
+ Chaqueta Bomber Impermeable ,350000.0,M,1.0,Luis Valencia,350000,2026-01-10
+ Saco Cuello Tortuga Lana ,220000.0,XL,3.0,Maria Gomez,660000,2026-02-04
+ Jeans Classic Blue Denim ,180000.0,L,3.0,Maria Gomez,540000,2026-02-04
+ Jeans Classic Blue Denim ,180000.0,XL,1.0,Maria Gomez,180000,2026-01-23
+chaqueta bomber impermeable,350000.0,M,2.0,Maria Gomez,700000,2026-01-23
+Camiseta Basica Cuello V,85000.0,XS,3.0,ANA RIOS,255000,2026-01-18
+Camisa Polo Slim Fit Algodon,200000.0,XL,-1.0,Ana Rios,400000,2026-01-18
+Saco Cuello Tortuga Lana,220000.0,M,2.0,Ana Rios,9753,2026-01-18
+Camiseta Basica Cuello V,,XL,3.0,Ana Rios,255000,2026-01-18
+Saco Cuello Tortuga Lana,220000.0,M,0.0,Pedro Cano,220000,2026-01-20
+Saco Cuello Tortuga Lana,220000.0,S,1.0,Pedro Cano,220000,2026-01-20
+ Jeans Classic Blue Denim ,180000.0,S,3.0,Pedro Cano,540000,2026-01-20
+Jeans Classic Blue Denim,180000.0,XL,3.0,PEDRO CANO,540000,2026-01-20
+bermuda cargo beige,120000.0,M,3.0,Juan Giraldo,360000,2026-02-17
+ Bermuda Cargo Beige ,120000.0,XXL,1.0,Juan Giraldo,120000,2026-02-17
+Camiseta Basica Cuello V,85000.0,L,,Juan Giraldo,255000,2026-02-17
+Camisa Polo Slim Fit Algodon,200000.0,XS,2.0,JUAN GIRALDO,400000,2026-02-17
+Bermuda Cargo Beige,120000.0,XS,2.0,Ana Valencia,6349,2026-02-27
+Camisa Polo Slim Fit Algodon,200000.0,XL,2.0,Ana Valencia,400000,2026-01-31
+Camiseta Basica Cuello V,85000.0,XL,3.0,Ana Valencia,255000,2026-01-31
+ Camisa Polo Slim Fit Algodon ,200000.0,XL,3.0,Ana Valencia,600000,2026-01-31
+Saco Cuello Tortuga Lana,,S,1.0,Ana Valencia,220000,2026-01-31
+Camiseta Basica Cuello V,85000.0,medio,2.0,Maria Zapata,170000,2026-01-14
+Bermuda Cargo Beige,120000.0,XXL,1.0,Maria Zapata,120000,14/01/2026
+Jeans Classic Blue Denim,180000.0,S,2.0,Maria Zapata,360000,14/01/2026
+jeans classic blue denim,180000.0,XL,2.0,Ana Rios,360000,2026-02-14
+Camiseta Basica Cuello V,85000.0,XL,0.0,Ana Valencia,85000,2026-02-06
+Camisa Polo Slim Fit Algodon,200000.0,XS,1.0,ANA VALENCIA,200000,2026-02-06
+Camisa Polo Slim Fit Algodon,200000.0,L,3.0,Ana Valencia,7876,2026-02-06
+Saco Cuello Tortuga Lana,220000.0,L,1.0,Pedro Cano,6341,2026-01-24
+Jeans Classic Blue Denim,180000.0,XL,1.0,Pedro Cano,180000,24/01/2026
+Camisa Polo Slim Fit Algodon,200000.0,XXL,2.0,Ana Rios,14200,2026-01-29
+Bermuda Cargo Beige,120000.0,XS,3.0,Maria Zapata,14846,2026-02-23
+Camiseta Basica Cuello V,85000.0,S,1.0,ANA VALENCIA,85000,2026-01-15
+Chaqueta Bomber Impermeable,,XS,2.0,Pedro Giraldo,700000,2026-02-08
+jeans classic blue denim,180000.0,S,2.0,Pedro Giraldo,360000,2026-02-08
+jeans classic blue denim,180000.0,XL,3.0,Pedro Giraldo,540000,2026-02-08
+Camisa Polo Slim Fit Algodon,200000.0,M,3.0,Pedro Giraldo,600000,08/02/2026
+ Camiseta Basica Cuello V ,85000.0,XS,2.0,Ana Valencia,170000,2026-02-05
+Saco Cuello Tortuga Lana,220000.0,medio,3.0,Luis Valencia,660000,2026-01-26
+Camiseta Basica Cuello V,85000.0,XL,0.0,Luis Valencia,255000,2026-01-26
+Saco Cuello Tortuga Lana,220000.0,L,1.0,LUIS VALENCIA,220000,2026-01-26
+Camisa Polo Slim Fit Algodon,200000.0,XL,2.0,Pedro Cano,400000,2026-02-27
+camisa polo slim fit algodon,200000.0,L,2.0,Pedro Cano,400000,2026-02-27
+Camisa Polo Slim Fit Algodon,200000.0,XXL,,Pedro Giraldo,200000,2026-02-14
+Jeans Classic Blue Denim,180000.0,XXL,,Pedro Giraldo,180000,2026-02-14
+Camiseta Basica Cuello V,85000.0,XS,1.0,Maria Valencia,10320,2026-01-27
+Chaqueta Bomber Impermeable,,XS,2.0,Maria Valencia,700000,2026-02-05
+ Jeans Classic Blue Denim ,180000.0,XXL,1.0,Maria Valencia,180000,2026-02-05
+ Jeans Classic Blue Denim ,180000.0,XS,2.0,Maria Valencia,360000,2026-02-05
+Chaqueta Bomber Impermeable,350000.0,XL,2.0,ANA RIOS,700000,2026-01-29
+Saco Cuello Tortuga Lana,220000.0,XS,1.0,Ana Rios,220000,29/01/2026
+Camiseta Basica Cuello V,,M,3.0,Ana Rios,255000,2026-01-29
+Saco Cuello Tortuga Lana,220000.0,XL,3.0,Juan Rios,660000,15/02/2026
+Chaqueta Bomber Impermeable,350000.0,S,1.0,Juan Rios,350000,15/02/2026
+Camiseta Basica Cuello V,85000.0,L,2.0,JUAN RIOS,170000,2026-02-15
+Jeans Classic Blue Denim,180000.0,L,1.0,Maria Zapata,180000,2026-01-15
+Chaqueta Bomber Impermeable,350000.0,XS,2.0,Maria Zapata,700000,2026-01-15
+jeans classic blue denim,180000.0,M,2.0,Maria Zapata,360000,2026-01-15
+Jeans Classic Blue Denim,180000.0,XL,1.0,Maria Zapata,10337,2026-01-15
+ Saco Cuello Tortuga Lana ,220000.0,M,2.0,Ana Rios,440000,2026-02-18
+ Jeans Classic Blue Denim ,180000.0,XS,2.0,Ana Rios,360000,2026-02-18
+Camisa Polo Slim Fit Algodon,200000.0,S,0.0,Maria Gomez,200000,2026-02-21
+Jeans Classic Blue Denim,,XS,3.0,Maria Gomez,540000,2026-02-21
+Chaqueta Bomber Impermeable,,XS,3.0,Maria Gomez,1050000,2026-02-21
+Camiseta Basica Cuello V,85000.0,XS,1.0,Juan Rios,13194,2026-01-28
+Camisa Polo Slim Fit Algodon,,XXL,3.0,Juan Rios,600000,2026-01-28
+ Chaqueta Bomber Impermeable ,350000.0,S,2.0,Juan Rios,700000,2026-01-28
+bermuda cargo beige,120000.0,L,3.0,Juan Rios,360000,2026-01-18
+Saco Cuello Tortuga Lana,220000.0,medio,2.0,Juan Rios,440000,2026-01-18
