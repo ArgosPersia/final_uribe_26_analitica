@@ -3,11 +3,11 @@ from data.simuladorVentas import generar_ventas
 from utils.generarCSV import generar_archivo_csv
 from utils.generarJSON import generar_archivo_json
 from utils.limpiarDatos import limpiar_dataframe
-import pandas as pd
+import pandas as pd #type: ignore
 
 
 empleados = crear_empleados(10)
-ventas = generar_ventas(50, empleados)
+ventas = generar_ventas(10, empleados)
 
 print("\nVENTAS ")
 for venta in ventas:
@@ -19,13 +19,13 @@ generar_archivo_csv(ventas, "data/ventas_sucias.csv")
 generar_archivo_json(ventas, "data/json_ventas_sucias.json")
 
 
-# print(dataframe_ventas.head(7))
-# print(dataframe_ventas.tail())
-# print(dataframe_ventas.shape)
-# print(dataframe_ventas.columns)
-# print(dataframe_ventas.dtypes)
-# print(dataframe_ventas.info())
-# print(dataframe_ventas.describe())
+print(dataframe_ventas.head(7))
+print(dataframe_ventas.tail())
+print(dataframe_ventas.shape)
+print(dataframe_ventas.columns)
+print(dataframe_ventas.dtypes)
+print(dataframe_ventas.info())
+print(dataframe_ventas.describe())
 
 df_limpio = limpiar_dataframe(
     df=dataframe_ventas,

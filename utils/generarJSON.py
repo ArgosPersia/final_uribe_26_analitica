@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd #type: ignore
 
 
 def generar_archivo_json(lista_ventas, nombre_archivo):
