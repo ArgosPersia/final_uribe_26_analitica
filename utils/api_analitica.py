@@ -23,10 +23,9 @@ def guardar_csv(datos, ruta):
 
 @app.post("/analizar-venta")
 def analizar(venta: VentaRequest):
-    # 1. Guardamos copia original para comparar
     original = venta.model_dump()
     
-    # 2. Proceso de Limpieza
+    # Proceso de Limpieza
     vendedor_L = " ".join(original['vendedor'].split()).title()
     talla_L = str(original['talla']).upper().strip().replace("MEDIO", "M")
     producto_L = original['producto'].strip().capitalize()
@@ -35,8 +34,6 @@ def analizar(venta: VentaRequest):
     total_esperado = original['precioUnitario'] * cantidad_L
     calculo_ok = abs(original['total'] - total_esperado) < 0.1
     
-    # 3. ¿Venía sucia o limpia?
-    # Es sucia si el nombre cambió, la talla cambió o el cálculo estaba mal
     venia_sucia = (original['vendedor'] != vendedor_L or 
                 original['talla'] != talla_L or 
                 original['cantidad'] != cantidad_L or 
@@ -51,7 +48,6 @@ def analizar(venta: VentaRequest):
     if venia_sucia:
         guardar_csv(original, FILE_SUCIAS)
     
-    # Si el cálculo es correcto y cantidad > 0, va a limpias
     if calculo_ok and cantidad_L > 0:
         guardar_csv(datos_limpios, FILE_LIMPIAS)
         estado = "LIMPIA"
@@ -61,6 +57,5 @@ def analizar(venta: VentaRequest):
     return {"estado": estado, **datos_limpios}
 
 if __name__ == "__main__":
-    import uvicorn
-    # Esto hace que al darle "Play", el servidor se quede encendido en el puerto 8000
+    import uvicorn #type: ignore
     uvicorn.run(app, host="127.0.0.1", port=8000)

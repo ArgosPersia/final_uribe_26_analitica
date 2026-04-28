@@ -37,7 +37,6 @@ def generar_ventas(numero_facturas, lista_empleados):
                 "fecha":           fecha_transaccion.strftime("%Y-%m-%d"),
             }
 
-            # Inyectar errores de calidad con cierta probabilidad
             probabilidad_error = random.random()
 
             if probabilidad_error < 0.15:
@@ -59,7 +58,6 @@ def generar_ventas(numero_facturas, lista_empleados):
 
             ventas.append(venta)
 
-    # Inyectar duplicados si hay suficientes registros
     if len(ventas) >= 3:
         ventas.append(ventas[0].copy())
         ventas.append(ventas[1].copy())
