@@ -1,1118 +1,209 @@
 [
     {
-        "producto":"bermuda cargo beige",
-        "precio_unitario":120000.0,
-        "talla":"L",
-        "cantidad":3.0,
-        "vendedor":"Juan Rios",
-        "total":360000,
-        "fecha":"2026-01-18"
+        "producto":"Camiseta Basica Cuello V",
+        "precio_unitario":85000.0,
+        "talla":"XXL",
+        "cantidad":-1,
+        "vendedor":"Jorge Valencia",
+        "total":85000,
+        "fecha":"2026-02-27"
     },
     {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"medio",
-        "cantidad":2.0,
-        "vendedor":"Juan Rios",
-        "total":440000,
-        "fecha":"2026-01-18"
+        "producto":"Chaqueta Bomber Impermeable",
+        "precio_unitario":null,
+        "talla":"S",
+        "cantidad":2,
+        "vendedor":"Jorge Valencia",
+        "total":700000,
+        "fecha":"2026-02-27"
     },
     {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"medio",
-        "cantidad":3.0,
-        "vendedor":"Luis Valencia",
-        "total":540000,
+        "producto":"Camisa Polo Slim Fit Algodon",
+        "precio_unitario":200000.0,
+        "talla":"XS",
+        "cantidad":0,
+        "vendedor":"Ana Gomez",
+        "total":600000,
         "fecha":"2026-02-26"
     },
     {
         "producto":"saco cuello tortuga lana",
         "precio_unitario":220000.0,
         "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"Maria Valencia",
+        "cantidad":1,
+        "vendedor":"Ana Gomez",
         "total":220000,
-        "fecha":"2026-02-15"
+        "fecha":"2026-02-26"
     },
     {
-        "producto":" Camiseta Basica Cuello V ",
-        "precio_unitario":85000.0,
-        "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"Maria Valencia",
-        "total":85000,
-        "fecha":"2026-02-15"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
+        "producto":"Camisa Polo Slim Fit Algodon",
+        "precio_unitario":null,
         "talla":"S",
-        "cantidad":0.0,
-        "vendedor":"Juan Giraldo",
-        "total":360000,
-        "fecha":"2026-02-21"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Juan Giraldo",
-        "total":440000,
-        "fecha":"21\/02\/2026"
-    },
-    {
-        "producto":"jeans classic blue denim",
-        "precio_unitario":180000.0,
-        "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"Juan Rios",
-        "total":540000,
+        "cantidad":1,
+        "vendedor":"Ana Gomez",
+        "total":200000,
         "fecha":"2026-02-03"
     },
     {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"M",
-        "cantidad":2.0,
-        "vendedor":"Juan Rios",
-        "total":440000,
-        "fecha":"03\/02\/2026"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"medio",
-        "cantidad":2.0,
-        "vendedor":"Maria Zapata",
-        "total":440000,
-        "fecha":"2026-02-20"
-    },
-    {
-        "producto":"Bermuda Cargo Beige",
-        "precio_unitario":120000.0,
-        "talla":"S",
-        "cantidad":3.0,
-        "vendedor":"Maria Zapata",
-        "total":360000,
-        "fecha":"20\/02\/2026"
-    },
-    {
-        "producto":" Chaqueta Bomber Impermeable ",
-        "precio_unitario":350000.0,
-        "talla":"S",
-        "cantidad":2.0,
-        "vendedor":"Maria Zapata",
-        "total":700000,
-        "fecha":"2026-02-20"
-    },
-    {
-        "producto":"Bermuda Cargo Beige",
-        "precio_unitario":120000.0,
-        "talla":"XL",
-        "cantidad":-1.0,
-        "vendedor":"Maria Zapata",
-        "total":360000,
-        "fecha":"2026-02-20"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"XL",
-        "cantidad":1.0,
-        "vendedor":"Pedro Giraldo",
-        "total":180000,
-        "fecha":"2026-02-06"
-    },
-    {
-        "producto":"Bermuda Cargo Beige",
-        "precio_unitario":120000.0,
-        "talla":"L",
-        "cantidad":1.0,
-        "vendedor":"ANA VALENCIA",
-        "total":120000,
-        "fecha":"2026-02-08"
-    },
-    {
-        "producto":" Jeans Classic Blue Denim ",
-        "precio_unitario":180000.0,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Ana Valencia",
-        "total":360000,
-        "fecha":"2026-02-08"
-    },
-    {
-        "producto":" Camisa Polo Slim Fit Algodon ",
-        "precio_unitario":200000.0,
-        "talla":"M",
-        "cantidad":2.0,
-        "vendedor":"Ana Valencia",
-        "total":400000,
-        "fecha":"2026-02-08"
-    },
-    {
         "producto":"Camisa Polo Slim Fit Algodon",
         "precio_unitario":200000.0,
-        "talla":"M",
-        "cantidad":null,
-        "vendedor":"Ana Valencia",
+        "talla":"medio",
+        "cantidad":3,
+        "vendedor":"Luis Perez",
         "total":600000,
-        "fecha":"2026-02-08"
+        "fecha":"2026-02-14"
     },
     {
-        "producto":"Camisa Polo Slim Fit Algodon",
+        "producto":"Saco Cuello Tortuga Lana",
         "precio_unitario":null,
         "talla":"XS",
-        "cantidad":1.0,
-        "vendedor":"Maria Valencia",
-        "total":200000,
-        "fecha":"2026-01-17"
-    },
-    {
-        "producto":"camiseta basica cuello v",
-        "precio_unitario":85000.0,
-        "talla":"XL",
-        "cantidad":2.0,
-        "vendedor":"Maria Zapata",
-        "total":170000,
-        "fecha":"2026-01-14"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":null,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Maria Zapata",
-        "total":170000,
-        "fecha":"2026-01-14"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"M",
-        "cantidad":1.0,
-        "vendedor":"Maria Zapata",
-        "total":220000,
-        "fecha":"14\/01\/2026"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"XL",
-        "cantidad":null,
-        "vendedor":"Maria Zapata",
-        "total":540000,
-        "fecha":"2026-01-14"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":85000.0,
-        "talla":"XL",
-        "cantidad":1.0,
-        "vendedor":"Pedro Cano",
-        "total":11791,
-        "fecha":"2026-02-25"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"medio",
-        "cantidad":1.0,
-        "vendedor":"Pedro Cano",
-        "total":180000,
-        "fecha":"2026-02-25"
-    },
-    {
-        "producto":" Jeans Classic Blue Denim ",
-        "precio_unitario":180000.0,
-        "talla":"S",
-        "cantidad":2.0,
-        "vendedor":"Pedro Cano",
-        "total":360000,
-        "fecha":"2026-02-25"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"L",
-        "cantidad":-1.0,
-        "vendedor":"Ana Rios",
-        "total":200000,
-        "fecha":"2026-01-14"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"L",
-        "cantidad":3.0,
-        "vendedor":"Ana Rios",
+        "cantidad":3,
+        "vendedor":"Luis Perez",
         "total":660000,
-        "fecha":"14\/01\/2026"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"Ana Rios",
-        "total":200000,
-        "fecha":"14\/01\/2026"
-    },
-    {
-        "producto":"Chaqueta Bomber Impermeable",
-        "precio_unitario":350000.0,
-        "talla":"L",
-        "cantidad":2.0,
-        "vendedor":"JUAN GIRALDO",
-        "total":700000,
-        "fecha":"2026-01-22"
-    },
-    {
-        "producto":"jeans classic blue denim",
-        "precio_unitario":180000.0,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":"Juan Giraldo",
-        "total":540000,
-        "fecha":"2026-01-22"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"XXL",
-        "cantidad":3.0,
-        "vendedor":"Juan Giraldo",
-        "total":660000,
-        "fecha":"2026-01-22"
-    },
-    {
-        "producto":"Bermuda Cargo Beige",
-        "precio_unitario":120000.0,
-        "talla":"XL",
-        "cantidad":1.0,
-        "vendedor":"Maria Gomez",
-        "total":8613,
-        "fecha":"2026-03-03"
-    },
-    {
-        "producto":"Chaqueta Bomber Impermeable",
-        "precio_unitario":null,
-        "talla":"XXL",
-        "cantidad":3.0,
-        "vendedor":"Maria Gomez",
-        "total":1050000,
-        "fecha":"2026-03-03"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"ANA RIOS",
-        "total":200000,
-        "fecha":"2026-02-27"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":null,
-        "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"Ana Rios",
-        "total":660000,
-        "fecha":"2026-02-27"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"S",
-        "cantidad":3.0,
-        "vendedor":"Ana Rios",
-        "total":540000,
-        "fecha":"2026-02-27"
-    },
-    {
-        "producto":" Chaqueta Bomber Impermeable ",
-        "precio_unitario":350000.0,
-        "talla":"L",
-        "cantidad":1.0,
-        "vendedor":"Maria Zapata",
-        "total":350000,
-        "fecha":"2026-01-07"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"L",
-        "cantidad":2.0,
-        "vendedor":"MARIA ZAPATA",
-        "total":440000,
-        "fecha":"2026-01-07"
-    },
-    {
-        "producto":" Camiseta Basica Cuello V ",
-        "precio_unitario":85000.0,
-        "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"Maria Zapata",
-        "total":85000,
-        "fecha":"2026-01-07"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":null,
-        "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"Juan Rios",
-        "total":180000,
-        "fecha":"2026-01-25"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":"Pedro Giraldo",
-        "total":660000,
-        "fecha":"28\/01\/2026"
-    },
-    {
-        "producto":" Chaqueta Bomber Impermeable ",
-        "precio_unitario":350000.0,
-        "talla":"M",
-        "cantidad":3.0,
-        "vendedor":"Juan Giraldo",
-        "total":1050000,
-        "fecha":"2026-01-02"
-    },
-    {
-        "producto":"Chaqueta Bomber Impermeable",
-        "precio_unitario":null,
-        "talla":"XL",
-        "cantidad":2.0,
-        "vendedor":"Juan Giraldo",
-        "total":700000,
-        "fecha":"2026-01-02"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"XS",
-        "cantidad":1.0,
-        "vendedor":"JUAN GIRALDO",
-        "total":200000,
-        "fecha":"2026-01-02"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":85000.0,
-        "talla":"medio",
-        "cantidad":2.0,
-        "vendedor":"Juan Giraldo",
-        "total":170000,
-        "fecha":"2026-01-02"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"medio",
-        "cantidad":2.0,
-        "vendedor":"Juan Giraldo",
-        "total":440000,
-        "fecha":"2026-02-07"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"Juan Giraldo",
-        "total":220000,
-        "fecha":"2026-02-07"
-    },
-    {
-        "producto":" Bermuda Cargo Beige ",
-        "precio_unitario":120000.0,
-        "talla":"M",
-        "cantidad":3.0,
-        "vendedor":"Juan Rios",
-        "total":360000,
-        "fecha":"2026-01-21"
-    },
-    {
-        "producto":"camiseta basica cuello v",
-        "precio_unitario":85000.0,
-        "talla":"L",
-        "cantidad":2.0,
-        "vendedor":"Maria Valencia",
-        "total":170000,
-        "fecha":"2026-02-05"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"XL",
-        "cantidad":2.0,
-        "vendedor":"Maria Valencia",
-        "total":10518,
-        "fecha":"2026-02-05"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"M",
-        "cantidad":2.0,
-        "vendedor":"Maria Valencia",
-        "total":400000,
-        "fecha":"05\/02\/2026"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"L",
-        "cantidad":-1.0,
-        "vendedor":"Maria Valencia",
-        "total":220000,
-        "fecha":"2026-02-05"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Luis Valencia",
-        "total":7042,
-        "fecha":"2026-01-10"
-    },
-    {
-        "producto":" Chaqueta Bomber Impermeable ",
-        "precio_unitario":350000.0,
-        "talla":"M",
-        "cantidad":1.0,
-        "vendedor":"Luis Valencia",
-        "total":350000,
-        "fecha":"2026-01-10"
-    },
-    {
-        "producto":" Saco Cuello Tortuga Lana ",
-        "precio_unitario":220000.0,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":"Maria Gomez",
-        "total":660000,
-        "fecha":"2026-02-04"
-    },
-    {
-        "producto":" Jeans Classic Blue Denim ",
-        "precio_unitario":180000.0,
-        "talla":"L",
-        "cantidad":3.0,
-        "vendedor":"Maria Gomez",
-        "total":540000,
-        "fecha":"2026-02-04"
-    },
-    {
-        "producto":" Jeans Classic Blue Denim ",
-        "precio_unitario":180000.0,
-        "talla":"XL",
-        "cantidad":1.0,
-        "vendedor":"Maria Gomez",
-        "total":180000,
-        "fecha":"2026-01-23"
-    },
-    {
-        "producto":"chaqueta bomber impermeable",
-        "precio_unitario":350000.0,
-        "talla":"M",
-        "cantidad":2.0,
-        "vendedor":"Maria Gomez",
-        "total":700000,
-        "fecha":"2026-01-23"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":85000.0,
-        "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"ANA RIOS",
-        "total":255000,
-        "fecha":"2026-01-18"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"XL",
-        "cantidad":-1.0,
-        "vendedor":"Ana Rios",
-        "total":400000,
-        "fecha":"2026-01-18"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"M",
-        "cantidad":2.0,
-        "vendedor":"Ana Rios",
-        "total":9753,
-        "fecha":"2026-01-18"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":null,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":"Ana Rios",
-        "total":255000,
-        "fecha":"2026-01-18"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"M",
-        "cantidad":0.0,
-        "vendedor":"Pedro Cano",
-        "total":220000,
-        "fecha":"2026-01-20"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"Pedro Cano",
-        "total":220000,
-        "fecha":"2026-01-20"
-    },
-    {
-        "producto":" Jeans Classic Blue Denim ",
-        "precio_unitario":180000.0,
-        "talla":"S",
-        "cantidad":3.0,
-        "vendedor":"Pedro Cano",
-        "total":540000,
-        "fecha":"2026-01-20"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":"PEDRO CANO",
-        "total":540000,
-        "fecha":"2026-01-20"
-    },
-    {
-        "producto":"bermuda cargo beige",
-        "precio_unitario":120000.0,
-        "talla":"M",
-        "cantidad":3.0,
-        "vendedor":"Juan Giraldo",
-        "total":360000,
-        "fecha":"2026-02-17"
-    },
-    {
-        "producto":" Bermuda Cargo Beige ",
-        "precio_unitario":120000.0,
-        "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"Juan Giraldo",
-        "total":120000,
-        "fecha":"2026-02-17"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":85000.0,
-        "talla":"L",
-        "cantidad":null,
-        "vendedor":"Juan Giraldo",
-        "total":255000,
-        "fecha":"2026-02-17"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"JUAN GIRALDO",
-        "total":400000,
-        "fecha":"2026-02-17"
-    },
-    {
-        "producto":"Bermuda Cargo Beige",
-        "precio_unitario":120000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Ana Valencia",
-        "total":6349,
-        "fecha":"2026-02-27"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"XL",
-        "cantidad":2.0,
-        "vendedor":"Ana Valencia",
-        "total":400000,
-        "fecha":"2026-01-31"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":85000.0,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":"Ana Valencia",
-        "total":255000,
-        "fecha":"2026-01-31"
-    },
-    {
-        "producto":" Camisa Polo Slim Fit Algodon ",
-        "precio_unitario":200000.0,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":"Ana Valencia",
-        "total":600000,
-        "fecha":"2026-01-31"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":null,
-        "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"Ana Valencia",
-        "total":220000,
-        "fecha":"2026-01-31"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":85000.0,
-        "talla":"medio",
-        "cantidad":2.0,
-        "vendedor":"Maria Zapata",
-        "total":170000,
-        "fecha":"2026-01-14"
-    },
-    {
-        "producto":"Bermuda Cargo Beige",
-        "precio_unitario":120000.0,
-        "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"Maria Zapata",
-        "total":120000,
-        "fecha":"14\/01\/2026"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"S",
-        "cantidad":2.0,
-        "vendedor":"Maria Zapata",
-        "total":360000,
-        "fecha":"14\/01\/2026"
-    },
-    {
-        "producto":"jeans classic blue denim",
-        "precio_unitario":180000.0,
-        "talla":"XL",
-        "cantidad":2.0,
-        "vendedor":"Ana Rios",
-        "total":360000,
         "fecha":"2026-02-14"
     },
     {
         "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":85000.0,
+        "precio_unitario":null,
+        "talla":"XS",
+        "cantidad":3,
+        "vendedor":"Luis Perez",
+        "total":255000,
+        "fecha":"2026-02-14"
+    },
+    {
+        "producto":"chaqueta bomber impermeable",
+        "precio_unitario":350000.0,
+        "talla":"XXL",
+        "cantidad":3,
+        "vendedor":"Luis Perez",
+        "total":1050000,
+        "fecha":"2026-02-14"
+    },
+    {
+        "producto":"Bermuda Cargo Beige",
+        "precio_unitario":120000.0,
+        "talla":"medio",
+        "cantidad":1,
+        "vendedor":"Pedro Perez",
+        "total":120000,
+        "fecha":"2026-01-22"
+    },
+    {
+        "producto":"Bermuda Cargo Beige",
+        "precio_unitario":120000.0,
         "talla":"XL",
-        "cantidad":0.0,
-        "vendedor":"Ana Valencia",
-        "total":85000,
-        "fecha":"2026-02-06"
+        "cantidad":2,
+        "vendedor":"Maria Giraldo",
+        "total":240000,
+        "fecha":"2026-01-25"
+    },
+    {
+        "producto":"jeans classic blue denim",
+        "precio_unitario":180000.0,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Pedro Perez",
+        "total":540000,
+        "fecha":"2026-02-05"
     },
     {
         "producto":"Camisa Polo Slim Fit Algodon",
         "precio_unitario":200000.0,
         "talla":"XS",
-        "cantidad":1.0,
-        "vendedor":"ANA VALENCIA",
-        "total":200000,
-        "fecha":"2026-02-06"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"L",
-        "cantidad":3.0,
-        "vendedor":"Ana Valencia",
-        "total":7876,
-        "fecha":"2026-02-06"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"L",
-        "cantidad":1.0,
-        "vendedor":"Pedro Cano",
-        "total":6341,
-        "fecha":"2026-01-24"
+        "cantidad":0,
+        "vendedor":"Luis Giraldo",
+        "total":600000,
+        "fecha":"2026-02-08"
     },
     {
         "producto":"Jeans Classic Blue Denim",
         "precio_unitario":180000.0,
-        "talla":"XL",
-        "cantidad":1.0,
-        "vendedor":"Pedro Cano",
-        "total":180000,
-        "fecha":"24\/01\/2026"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Ana Rios",
-        "total":14200,
-        "fecha":"2026-01-29"
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"LUIS GIRALDO",
+        "total":360000,
+        "fecha":"2026-02-08"
     },
     {
         "producto":"Bermuda Cargo Beige",
         "precio_unitario":120000.0,
         "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"Maria Zapata",
-        "total":14846,
-        "fecha":"2026-02-23"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":85000.0,
-        "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"ANA VALENCIA",
-        "total":85000,
-        "fecha":"2026-01-15"
-    },
-    {
-        "producto":"Chaqueta Bomber Impermeable",
-        "precio_unitario":null,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Pedro Giraldo",
-        "total":700000,
+        "cantidad":1,
+        "vendedor":"Luis Giraldo",
+        "total":120000,
         "fecha":"2026-02-08"
     },
     {
-        "producto":"jeans classic blue denim",
-        "precio_unitario":180000.0,
-        "talla":"S",
-        "cantidad":2.0,
-        "vendedor":"Pedro Giraldo",
-        "total":360000,
-        "fecha":"2026-02-08"
-    },
-    {
-        "producto":"jeans classic blue denim",
-        "precio_unitario":180000.0,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":"Pedro Giraldo",
-        "total":540000,
-        "fecha":"2026-02-08"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
+        "producto":"Saco Cuello Tortuga Lana",
+        "precio_unitario":220000.0,
         "talla":"M",
-        "cantidad":3.0,
-        "vendedor":"Pedro Giraldo",
-        "total":600000,
-        "fecha":"08\/02\/2026"
+        "cantidad":-1,
+        "vendedor":"Jorge Valencia",
+        "total":440000,
+        "fecha":"2026-01-02"
     },
     {
-        "producto":" Camiseta Basica Cuello V ",
-        "precio_unitario":85000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Ana Valencia",
-        "total":170000,
-        "fecha":"2026-02-05"
+        "producto":"Bermuda Cargo Beige",
+        "precio_unitario":120000.0,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Jorge Valencia",
+        "total":360000,
+        "fecha":"2026-01-02"
     },
     {
         "producto":"Saco Cuello Tortuga Lana",
         "precio_unitario":220000.0,
+        "talla":"XXL",
+        "cantidad":2,
+        "vendedor":"Ana Gomez",
+        "total":12976,
+        "fecha":"2026-02-27"
+    },
+    {
+        "producto":"Bermuda Cargo Beige",
+        "precio_unitario":120000.0,
         "talla":"medio",
-        "cantidad":3.0,
-        "vendedor":"Luis Valencia",
-        "total":660000,
-        "fecha":"2026-01-26"
+        "cantidad":1,
+        "vendedor":"Ana Gomez",
+        "total":120000,
+        "fecha":"2026-02-27"
     },
     {
         "producto":"Camiseta Basica Cuello V",
         "precio_unitario":85000.0,
-        "talla":"XL",
-        "cantidad":0.0,
-        "vendedor":"Luis Valencia",
-        "total":255000,
-        "fecha":"2026-01-26"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
         "talla":"L",
-        "cantidad":1.0,
-        "vendedor":"LUIS VALENCIA",
-        "total":220000,
-        "fecha":"2026-01-26"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"XL",
-        "cantidad":2.0,
-        "vendedor":"Pedro Cano",
-        "total":400000,
+        "cantidad":1,
+        "vendedor":"ANA GOMEZ",
+        "total":85000,
         "fecha":"2026-02-27"
     },
     {
         "producto":"camisa polo slim fit algodon",
         "precio_unitario":200000.0,
-        "talla":"L",
-        "cantidad":2.0,
-        "vendedor":"Pedro Cano",
+        "talla":"XS",
+        "cantidad":2,
+        "vendedor":"Ana Gomez",
         "total":400000,
         "fecha":"2026-02-27"
     },
     {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"XXL",
-        "cantidad":null,
-        "vendedor":"Pedro Giraldo",
-        "total":200000,
-        "fecha":"2026-02-14"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"XXL",
-        "cantidad":null,
-        "vendedor":"Pedro Giraldo",
-        "total":180000,
-        "fecha":"2026-02-14"
-    },
-    {
         "producto":"Camiseta Basica Cuello V",
         "precio_unitario":85000.0,
-        "talla":"XS",
-        "cantidad":1.0,
-        "vendedor":"Maria Valencia",
-        "total":10320,
-        "fecha":"2026-01-27"
-    },
-    {
-        "producto":"Chaqueta Bomber Impermeable",
-        "precio_unitario":null,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Maria Valencia",
-        "total":700000,
-        "fecha":"2026-02-05"
-    },
-    {
-        "producto":" Jeans Classic Blue Denim ",
-        "precio_unitario":180000.0,
         "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"Maria Valencia",
-        "total":180000,
-        "fecha":"2026-02-05"
-    },
-    {
-        "producto":" Jeans Classic Blue Denim ",
-        "precio_unitario":180000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Maria Valencia",
-        "total":360000,
-        "fecha":"2026-02-05"
+        "cantidad":-1,
+        "vendedor":"Jorge Valencia",
+        "total":85000,
+        "fecha":"2026-02-27"
     },
     {
         "producto":"Chaqueta Bomber Impermeable",
-        "precio_unitario":350000.0,
-        "talla":"XL",
-        "cantidad":2.0,
-        "vendedor":"ANA RIOS",
-        "total":700000,
-        "fecha":"2026-01-29"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"XS",
-        "cantidad":1.0,
-        "vendedor":"Ana Rios",
-        "total":220000,
-        "fecha":"29\/01\/2026"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
         "precio_unitario":null,
-        "talla":"M",
-        "cantidad":3.0,
-        "vendedor":"Ana Rios",
-        "total":255000,
-        "fecha":"2026-01-29"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":"Juan Rios",
-        "total":660000,
-        "fecha":"15\/02\/2026"
-    },
-    {
-        "producto":"Chaqueta Bomber Impermeable",
-        "precio_unitario":350000.0,
         "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"Juan Rios",
-        "total":350000,
-        "fecha":"15\/02\/2026"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":85000.0,
-        "talla":"L",
-        "cantidad":2.0,
-        "vendedor":"JUAN RIOS",
-        "total":170000,
-        "fecha":"2026-02-15"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"L",
-        "cantidad":1.0,
-        "vendedor":"Maria Zapata",
-        "total":180000,
-        "fecha":"2026-01-15"
-    },
-    {
-        "producto":"Chaqueta Bomber Impermeable",
-        "precio_unitario":350000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Maria Zapata",
+        "cantidad":2,
+        "vendedor":"Jorge Valencia",
         "total":700000,
-        "fecha":"2026-01-15"
-    },
-    {
-        "producto":"jeans classic blue denim",
-        "precio_unitario":180000.0,
-        "talla":"M",
-        "cantidad":2.0,
-        "vendedor":"Maria Zapata",
-        "total":360000,
-        "fecha":"2026-01-15"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":180000.0,
-        "talla":"XL",
-        "cantidad":1.0,
-        "vendedor":"Maria Zapata",
-        "total":10337,
-        "fecha":"2026-01-15"
-    },
-    {
-        "producto":" Saco Cuello Tortuga Lana ",
-        "precio_unitario":220000.0,
-        "talla":"M",
-        "cantidad":2.0,
-        "vendedor":"Ana Rios",
-        "total":440000,
-        "fecha":"2026-02-18"
-    },
-    {
-        "producto":" Jeans Classic Blue Denim ",
-        "precio_unitario":180000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Ana Rios",
-        "total":360000,
-        "fecha":"2026-02-18"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":200000.0,
-        "talla":"S",
-        "cantidad":0.0,
-        "vendedor":"Maria Gomez",
-        "total":200000,
-        "fecha":"2026-02-21"
-    },
-    {
-        "producto":"Jeans Classic Blue Denim",
-        "precio_unitario":null,
-        "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"Maria Gomez",
-        "total":540000,
-        "fecha":"2026-02-21"
-    },
-    {
-        "producto":"Chaqueta Bomber Impermeable",
-        "precio_unitario":null,
-        "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"Maria Gomez",
-        "total":1050000,
-        "fecha":"2026-02-21"
-    },
-    {
-        "producto":"Camiseta Basica Cuello V",
-        "precio_unitario":85000.0,
-        "talla":"XS",
-        "cantidad":1.0,
-        "vendedor":"Juan Rios",
-        "total":13194,
-        "fecha":"2026-01-28"
-    },
-    {
-        "producto":"Camisa Polo Slim Fit Algodon",
-        "precio_unitario":null,
-        "talla":"XXL",
-        "cantidad":3.0,
-        "vendedor":"Juan Rios",
-        "total":600000,
-        "fecha":"2026-01-28"
-    },
-    {
-        "producto":" Chaqueta Bomber Impermeable ",
-        "precio_unitario":350000.0,
-        "talla":"S",
-        "cantidad":2.0,
-        "vendedor":"Juan Rios",
-        "total":700000,
-        "fecha":"2026-01-28"
-    },
-    {
-        "producto":"bermuda cargo beige",
-        "precio_unitario":120000.0,
-        "talla":"L",
-        "cantidad":3.0,
-        "vendedor":"Juan Rios",
-        "total":360000,
-        "fecha":"2026-01-18"
-    },
-    {
-        "producto":"Saco Cuello Tortuga Lana",
-        "precio_unitario":220000.0,
-        "talla":"medio",
-        "cantidad":2.0,
-        "vendedor":"Juan Rios",
-        "total":440000,
-        "fecha":"2026-01-18"
+        "fecha":"2026-02-27"
     }
 ]
